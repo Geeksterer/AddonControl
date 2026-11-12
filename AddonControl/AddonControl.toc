@@ -1,1 +1,9 @@
+## Interface: 30300
+## Title: Addon Control
+## Notes: Manage addons, memory usage, always-load locks, and account-wide profiles.
+## Author: Copper
+## Version: 1.0.1
+## SavedVariables: AddonControlDB
+## SavedVariablesPerCharacter: AddonControlCharDB
 
+AddonControl.lua
