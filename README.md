@@ -1,6 +1,6 @@
 # AddonControl
 
-**AddonControl** is an in-game addon manager that lets you enable or disable addons, lock essential addons across all characters, switch between saved addon profiles, monitor memory usage, and export clean addon lists without logging out to the character selection screen.
+**AddonControl** by Copper is an in-game addon manager that lets you enable or disable addons, lock essential addons across all characters, switch between saved addon profiles, monitor memory usage, and export clean addon lists without logging out to the character selection screen.
 
 ---
 
